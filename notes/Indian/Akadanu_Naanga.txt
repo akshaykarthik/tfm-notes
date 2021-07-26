@@ -1,6 +1,11 @@
+Song: Akadanu Naanga
+Film: Indian
+Composer: A. R. Rahman
+Lyrics: Vaali
+Artists: Swarnalatha
+Link: https://www.youtube.com/watch?v=H5ShIxvdIoo
+---
 
-Song: akkadaannu
-Film: Indhiyan
 Notes: s r2 g2 m1 p d2 n2 S
 
 

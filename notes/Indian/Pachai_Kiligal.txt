@@ -1,6 +1,10 @@
-
-Song: pachchaik kiligal
-Film: Indhiyan
+Song: Pachai Kiligal
+Film: Indian
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: K. J. Yesudas, Nirmala Sheshadri
+Link: https://www.youtube.com/watch?v=AShIsqQzkGE
+---
 Notes: s r2 g2 m1 p d1 n2 S
 
 

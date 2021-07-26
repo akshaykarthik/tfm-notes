@@ -1,6 +1,10 @@
-
-Song: TELEPHONE
-Film: Indhiyan
+Song: Telephone Manipol
+Film: Indian
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: Hariharan, Harini, Srinivas
+Link: https://www.youtube.com/watch?v=X1d_wbH2js8j
+---
 Notes: s r2 g2 m1 p d2 n2 S
 
 TELEPHONE manipoal sirippaval ivalaa
