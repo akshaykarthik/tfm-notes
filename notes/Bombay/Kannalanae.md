@@ -1,6 +1,11 @@
-
-Song: kannaalanae
+---
+Song: Kannalanae
 Film: Bombay
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: K. S. Chitra
+Link: https://www.youtube.com/watch?v=1h4skgII0QI
+---
 Notes: s r2 g2 m1 p d1 n3 S
 
 kannaalanae enadhu kannai naetroadu kaa...navillai

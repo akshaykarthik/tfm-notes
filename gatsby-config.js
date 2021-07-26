@@ -12,7 +12,6 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
-    "gatsby-plugin-mdx",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -21,5 +20,27 @@ module.exports = {
       },
       __key: "pages",
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "legacy",
+        path: "./legacy",
+      },
+      __key: "legacy",
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "notes",
+        path: "./notes",
+      },
+      __key: "notes",
+    },
+    {
+      resolve: "gatsby-plugin-mdx",
+      options: {
+        extensions: ['.mdx', '.md']
+      }
+    }
   ],
 };

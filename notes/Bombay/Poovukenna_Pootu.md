@@ -1,6 +1,11 @@
-
-Song: poovukkenna
+---
+Song: Poovukkenna Poottu
 Film: Bombay
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: Noel James, Anupama, Malgudi Subha
+Link: https://www.youtube.com/watch?v=uMgd3Y_qpQU
+---
 Notes: s r2 g2 m1 p d1 n2 S
 
 poovukkenna poottu kaatrukkenna roottu gullaa gullaa hallaa gullaa

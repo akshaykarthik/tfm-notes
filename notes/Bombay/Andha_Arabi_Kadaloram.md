@@ -1,6 +1,11 @@
-
-Song: andha arabi
+---
+Song: Andha Arabi Kadaloram
 Film: Bombay
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: A. R. Rahman, Suresh Peters, Swarnalatha
+Link: https://www.youtube.com/watch?v=V7UpENWElEU
+---
 Notes: s r2 g3 m1 p d2 n2 S
 
 andha arabikkadaloaram oar azhagaik kandaenae

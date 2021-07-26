@@ -1,6 +1,11 @@
-
-Song: kuchchikkuchchi
+---
+Song: Kuchi Kuchi
 Film: Bombay
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: Hariharan, Swarnalatha, G. V. Prakash Kumar, Bombay Saradha, Shweta Mohan
+Link: https://www.youtube.com/watch?v=1L0Q7JOF_bA
+---
 Notes: s r2 g2 m1 p d2 n3 S
 
 kuchchikkuchchi raakkammaa ponnuvaenum
