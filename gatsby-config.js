@@ -1,6 +1,6 @@
 module.exports = {
+  pathPrefix: "/tfm-notes",
   siteMetadata: {
-    pathPrefix: "/tfm-notes",
     siteUrl: "https://akshaykarthik.github.io/tfm-notes",
     title: "tfm-notes",
   },
