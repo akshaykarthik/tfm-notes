@@ -1,2 +1,5 @@
-*.tar.gz
+node_modules/
+.cache/
+public
 
+*.tar.gz
