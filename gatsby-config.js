@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    pathPrefix: "/tfm-notes",
+    siteUrl: "https://akshaykarthik.github.io/tfm-notes",
     title: "tfm-notes",
   },
   plugins: [
