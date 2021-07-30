@@ -87,12 +87,7 @@ export const query = graphql`
       sort: { fields: [context___Film, context___Song] }
     ) {
       nodes {
-        path
-        component
-        context {
-          Song
-          Film
-        }
+        ...pageComponents
       }
     }
     notes: allSitePage(
@@ -100,21 +95,55 @@ export const query = graphql`
       sort: { fields: [context___Film, context___Song] }
     ) {
       nodes {
-        path
-        component
-        context {
-          Song
-          Film
-        }
+        ...pageComponents
       }
+    }
+  }
+
+  fragment pageComponents on SitePage {
+    path
+    component
+    context {
+      Song
+      Film
+      Composer
+      Lyrics
+      Artists
+      Link
     }
   }
 `;
 // markup
 const IndexPage = ({ data }) => {
-  console.log(data);
+  const qualityMetrics = {
+    Song: 0,
+    Film: 0,
+    Composer: 0,
+    Lyrics: 0,
+    Artists: 0,
+    Link: 0,
+  };
+  const qualCount = (f) => {
+    if (f.context.Song) qualityMetrics.Song++;
+    if (f.context.Film) qualityMetrics.Film++;
+    if (f.context.Composer) qualityMetrics.Composer++;
+    if (f.context.Lyrics) qualityMetrics.Lyrics++;
+    if (f.context.Artists) qualityMetrics.Artists++;
+    if (f.context.Link) qualityMetrics.Link++;
+  };
+  data.notes.nodes.forEach(qualCount);
+  data.legacy.nodes.forEach(qualCount);
+
   return (
     <main style={pageStyles}>
+      Quality Metrics:
+      <ul style={listStyles}>
+        {Object.entries(qualityMetrics).map(([k, v]) => (
+          <li>
+            {k}: {v}
+          </li>
+        ))}
+      </ul>
       Completed:
       <ul style={listStyles}>
         {data.notes.nodes.map((f) => {

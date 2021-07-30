@@ -9,6 +9,10 @@ exports.createPages = async function ({ actions, graphql }) {
           frontmatter {
             Song
             Film
+            Composer
+            Lyrics
+            Artists
+            Link
           }
           parent {
             ... on File {
