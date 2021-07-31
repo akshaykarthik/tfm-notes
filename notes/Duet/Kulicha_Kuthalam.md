@@ -1,9 +1,10 @@
-
-Song: kuLichA kuthAlam
+---
+Song: Kulicha Kuthalam
 Film: Duet
 Composer: A. R. Rahman
-Singer : SPB TK kala
-Music : ARR
+Lyrics: Vairamuthu
+Artists: SPB, T. K. Kala
+Link: https://www.youtube.com/watch?v=cmyr5em4tio
 ---
 Notes: s r2 g3 m1 p d2 n2 S
 

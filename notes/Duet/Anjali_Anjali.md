@@ -1,8 +1,12 @@
 ---
-Song: anjali
+Song: Anjali Anjali
 Film: Duet
 Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: SPB, K. S. Chitra
+Link: https://www.youtube.com/watch?v=B_iuts4M5ZE
 ---
+
 Notes: s r2 g3 m1 p d2 n3 S
 
 anjali anjali pushpaanjali

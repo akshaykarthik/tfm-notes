@@ -1,7 +1,10 @@
-
+---
 Song: En Kaadhale
 Film: Duet
 Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: SPB
+Link: https://www.youtube.com/watch?v=vBjAPSR-7q8
 ---
 Notes: s r2 g3 m1 p d2 n2 S
 
