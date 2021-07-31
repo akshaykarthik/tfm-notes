@@ -1,13 +1,13 @@
 ---
-Song: Oru ponnu onnu
+Song: Oru Ponnu Onnu
 Film: Kushi
+Composer: Deva
+Lyrics: Vairamuthu
+Artists: Harini, Anuradha Sriram
+Link: https://www.youtube.com/watch?v=x0YZydyYWTg
 ---
 
----------------------------------------------------------------------
----
 Notes: s r2 g2 m1 p d1 n3 S
-here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
----------------------------------------------------------------------
 
 
 M:

@@ -1,6 +1,10 @@
 ---
-Song: kolambas
+Song: Columbus Columbus
 Film: Jeans
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: A. R. Rahman
+Link: https://www.youtube.com/watch?v=qd26FnQz0yU
 ---
 Notes: s r2 g2 m1 p d2 n2 S
 

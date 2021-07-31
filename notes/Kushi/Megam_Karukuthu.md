@@ -1,14 +1,13 @@
-
-Film: Kushi
 ---
-Song: Megam karukkudhu
+Song: Megam Karukkudhu
+Film: Kushi
+Composer: Deva
+Lyrics: Vairamuthu
+Artists: Harini
+Link: https://www.youtube.com/watch?v=qek9snjkijQ
+---
 
-----------------------------------------------------------------------
 Notes: s r1 g2 m1 p d1 n2 S
-here, r=r1, g=g2, m=m1, d=d1, n=n2 [unless specified otherwise]
-
--------------------------------------------------------------------
-
 
 Megam karukkudhu minnal sirikkudhu
 s s   s r  s n.  s  s   s s  s p

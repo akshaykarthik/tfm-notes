@@ -1,6 +1,10 @@
 ---
 Song: Poovukkul
 Film: Jeans
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: P. Unnikrishnana, Sujatha Mohan
+Link: https://www.youtube.com/watch?v=7rs9ZXju70A
 ---
 Notes: s r2 g3 m1 p d2 n3 S
 

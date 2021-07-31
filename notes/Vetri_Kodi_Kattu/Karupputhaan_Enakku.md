@@ -1,8 +1,10 @@
 ---
-Song: karuppu thaan
-Film: vetrikkodi kattu 
+Song: Karupputhaan Enakku
+Film: Vetri Kodi Kattu
+Composer: Deva
 Artists: Anuradha Sriram 
-Lyrics: Paa. Vijay 
+Lyrics: Pa. Vijay 
+Link: https://www.youtube.com/watch?v=AJLx_As6ETE
 ---
 Notes:  s r2 g2 m1 p d2 n2 S
 

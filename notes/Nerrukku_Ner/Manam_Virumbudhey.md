@@ -1,14 +1,13 @@
 ---
-Song: manam virumbudhae
-Film: Nerukku ner
+Song: Manam Virumbudhey
+Film: Nerukku Ner
+Composer: Deva
+Lyrics: Vairamuthu
+Artists: Harini, P. Unnikrishnan
+Link: https://www.youtube.com/watch?v=fsUay9cM_FA
 ---
 
----------------------------------------------------------------------
----
 Notes: s r2 g3 m1 p d2 n3 S
-r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]---
-
----------------------------------------------------------------------
 
 manam virumbudhae unnai unnai
 m m   m g  s sg   m sm  S dSd

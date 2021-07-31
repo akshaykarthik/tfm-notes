@@ -1,6 +1,10 @@
 ---
-Song: Azhage sugamaa
-Film: Paarthaale paravasam
+Song: Azhage Sugama
+Film: Paarthaale Paravasam
+Composer: A. R. Rahman
+Lyrics: Vairamuthu
+Artists: Srinivas, Sadhana Sargam
+Link: https://www.youtube.com/watch?v=YevKkBturUA
 ---
 Notes: s r2 g3 m1 p d2 n2 S
 

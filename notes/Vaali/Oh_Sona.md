@@ -1,6 +1,10 @@
 ---
 Song: Oh Sona
 Film: Vaali
+Composer: Deva
+Lyrics: Vairamuthu
+Artists: Hariharan, Ajith Kumar, Febi Mani
+Link: https://www.youtube.com/watch?v=bmnQo4-iRKg
 ---
 Notes: s r2 g2 m1 p d1 n2 S
 

@@ -1,14 +1,13 @@
 ---
-Song: April maadhathil
+Song: April Maadhathil
 Film: Vaali
+Composer: Deva
+Lyrics: Vairamuthu
+Artists: Unni Krishnan, Harini
+Link: https://www.youtube.com/watch?v=o24sCwbNNl0
 ---
 
----------------------------------------------------------------------
----
 Notes: s r2 g2 m1 p d1 n2 S
-here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
----------------------------------------------------------------------
-
 
 
 April Maadhathil 

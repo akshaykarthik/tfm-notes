@@ -1,14 +1,13 @@
 ---
-Song: Meenammaa
+Song: Meenamma Athikalayilum
 Film: Aasai
+Composer: Deva
+Lyrics: Vaali
+Artists: P. Unnikrishnan, Anuradha Sriram
+Link: https://www.youtube.com/watch?v=ddtN5bteeeE
 ---
 
----------------------------------------------------------------------
----
 Notes: s r2 g2 m1 p d2 n2 S
-here, r=r2, g=g2, m=m1, d=d2, n=n2 [unless otherwise specified]---
-
----------------------------------------------------------------------
 
 meenammaa...
 s  g  mp
