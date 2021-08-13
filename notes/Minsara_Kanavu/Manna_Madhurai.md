@@ -1,7 +1,10 @@
 ---
-Song: oo lalallaa
-Film: Minsara kanavu
+Song: Manna Madhurai (Ooh La La La)
+Film: Minsara Kanavu
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Unni Menon, K. S. Chitra, Srinivas
+Link: https://www.youtube.com/watch?v=US-gPZzQDns
 ---
 Notes: s r2 g2 m1 p d1 n2 S
 

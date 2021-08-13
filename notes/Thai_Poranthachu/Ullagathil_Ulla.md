@@ -1,15 +1,13 @@
 ---
-Song: Ulagathil
-Film: Thai porandhachu
+Song: Ulagathil Ulla
+Film: Thai Poranthachu
+Composer: Deva
+Lyrics: Pa. Vijay
+Artists: P. Unnikrishnan, Sujatha
+Link: https://www.youtube.com/watch?v=1WwzLueYz_Q
 ------
 
----------------------------------------------------------------------
----
 Notes: s r2 g2 m2 p d2 n3 S
-here, r=r2, g=g2, m=m2, d=d2, n=n3 [unless otherwise specified]
----------------------------------------------------------------------
-
-
 
 ulagathil ulla  adhisayam ettu unnaiyum saerthu
 sr g p    Sppg  pg  g r   grs  srg  p   pSp pSp

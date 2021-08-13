@@ -1,7 +1,10 @@
 ---
-Song: uppuk karuvaadu
+Song: Uppu Karuvadu
 Film: Mudhalvan
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Shankar Mahadevan, Kavita Krishnamurthy
+Link: https://www.youtube.com/watch?v=wqSYBDggWis
 ---
 Notes: s r2 g3 m2 p d2 n3 S
 

@@ -1,9 +1,12 @@
 ---
-Song: evano oruvan
-Film: alaipayudhey
+Song: Evano Oruvan
+Film: Alaipayuthey
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Swarnalatha
+Link: https://www.youtube.com/watch?v=Ol2oJlHjKsw
 ---
-Notes: s
+Notes: s r2 g2 m1 p d1 n3 S
 
 evanoa  oruvan     vaasikkiRaan
 pp G2   G2G2G2     G2 G2 R2M1G2

@@ -1,7 +1,10 @@
 ---
-Song: Kaadhal sadugudugudu
-Film: Alaipayudhey
+Song: Kaadhal Sadugudu
+Film: Alaipayuthey
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: SPB Charan, Naveen
+Link: https://www.youtube.com/watch?v=OHu-T6s5_u0
 ---
 Notes: s r2 g2 m1 p d1 n2 S
 

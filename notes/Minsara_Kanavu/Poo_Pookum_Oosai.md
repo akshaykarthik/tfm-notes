@@ -1,7 +1,10 @@
 ---
-Song: pooppookkum oasai
-Film: Minsara kanavu
+Song: Poo Pookum Oosai
+Film: Minsara Kanavu
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artist: Sujatha Mohan, Malaysia Vasudevan
+Link: https://www.youtube.com/watch?v=HTNlQqVeVxI
 ---
 Notes: s r2 g3 m1 p d2 n2 S
 

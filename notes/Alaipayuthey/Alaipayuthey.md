@@ -1,10 +1,12 @@
 ---
-Song: Alaipayudhey
-Film: Alaipayudhey
+Song: Alaipayuthey
+Film: Alaipayuthey
+Lyrics: Oothukkadu Venkatasubba Iyer
 Composer: A. R. Rahman
+Artists: Sadhana Sargam, Srinivas
+Link: https://www.youtube.com/watch?v=-p38QH5C_7s
 ---
 Notes: s r2 g2 m1 p d2 n2 S
-------------------------------------
 
 
 

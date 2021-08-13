@@ -1,7 +1,10 @@
 ---
-Song: azhagaana
+Song: Azhagana Ratchashiyae
 Film: Mudhalvan
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: SPB, Harini, G. V. Prakash
+Link: https://www.youtube.com/watch?v=j3qMSr_G6A8
 ---
 Notes: s r2 g2 m1 d2 n2 S
 

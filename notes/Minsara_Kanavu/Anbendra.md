@@ -1,9 +1,13 @@
 ---
-Song: anbenra
-Film: Minsara kanavu
+Song: Anbendra
+Film: Minsara Kanavu
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Anuradha Sriram
+Link: https://www.youtube.com/watch?v=TpydufddAjM
 ---
 Notes: s r2 g2 m1 p d2 n2 S
+Raagam: Anandhabhairavi
 
 anbenra mazhaiyilae agilangal nanaiyavae adhiroopan thoanrinaanae
 p pS S  n d   p pd1  mm p  p  m g  r r   ss  mg r   rmr  m p  p

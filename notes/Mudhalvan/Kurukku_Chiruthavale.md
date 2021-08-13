@@ -1,7 +1,10 @@
 ---
-Song: kurukku
+Song: Kurukku Chiruthavale
 Film: Mudhalvan
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Hariharan, Mahalakshmi Iyer
+Link: https://www.youtube.com/watch?v=ooEfClCHdbA
 ---
 Notes: s r2 g3 p d2 n3 S
 

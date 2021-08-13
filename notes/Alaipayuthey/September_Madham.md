@@ -1,7 +1,10 @@
 ---
-Song: September
-Film: Alaipayudhey
+Song: September Madham
+Film: Alaipayuthey
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Asha Bosle, Shankar Mahadevan
+Link: https://www.youtube.com/watch?v=lwuSD22-szs
 ---
 Notes: s r2 g2 m1 p d1 n3 S
 

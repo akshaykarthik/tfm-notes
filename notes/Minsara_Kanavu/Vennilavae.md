@@ -1,14 +1,13 @@
 ---
 Song: Vennilavae
 Film: Minsara Kanavu
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Hariharan, Sadhana Sargam
+Link: https://www.youtube.com/watch?v=8WoR0udMSKY
 ---
 
 Notes: s r2 g2 m1 p d1 n3 S
-here, r = r2 etc., unless specified
-
-
-
 
 vennilavae vennilavae     vinnaiththaandi varuvaayaa
 n. s s r   r  r r grgs    s  r    r    m  g g r  grgs

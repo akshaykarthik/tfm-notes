@@ -1,14 +1,12 @@
 ---
 Song: Pulveli
 Film: Aasai
+Lyrics: Vairamuthu
+Artists: K. S. Chitra, P. Unni Krishnan
+Link: https://www.youtube.com/watch?v=S9f13Cw2t0M
 ---
 
----------------------------------------------------------------------
----
 Notes: s r2 g3 m1 p d2 n3 S
-here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]---
-
----------------------------------------------------------------------
 
 
 pulveli pulveli thannil paniththuli paniththuli onru

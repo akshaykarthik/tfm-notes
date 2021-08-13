@@ -1,6 +1,9 @@
 ---
-Song: Roja kaadu
+Song: Roja Kaathu
 Film: Red
+Lyrics: Vairamuthu
+Artists: Hariharan
+Link: https://www.youtube.com/watch?v=8zL1nKVAQA4
 ---
 Notes: s r2 g2 m1 p d1 n3 S
 

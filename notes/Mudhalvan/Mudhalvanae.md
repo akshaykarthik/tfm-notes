@@ -1,7 +1,10 @@
 ---
-Song: mudhalvanae
+Song: Mudhalvanae
 Film: Mudhalvan
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: Shankar Mahadevan, Mano, Srinivas, S. Janaki
+Link: https://www.youtube.com/watch?v=kPAZzSHfcWM
 ---
 Notes: s r2 g2 m1 p d1 n2 S
 

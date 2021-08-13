@@ -1,7 +1,10 @@
 ---
-Song: thangath thaamarai
-Film: Minsara kanavu
+Song: Thanga Thamarai
+Film: Minsara Kanavu
+Lyrics: Vairamuthu
 Composer: A. R. Rahman
+Artists: SPB, Malgudi Subha
+Link: https://www.youtube.com/watch?v=IwARVZCNHA8
 ---
 Notes: s r2 g3 m1 p d2 n2 S
 
